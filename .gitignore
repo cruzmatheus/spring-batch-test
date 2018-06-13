@@ -3,3 +3,7 @@
 .project
 .settings/
 bin/
+spring-batch-test.iml
+spring-batch-test.ipr
+spring-batch-test.iws
+.idea/
